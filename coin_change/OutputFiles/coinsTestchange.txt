@@ -1,0 +1,48 @@
+
+Divide & Conquer Algorithm: 
+coin denominations: 1 2 4 8 
+change  quantities: 1 1 1 1 
+min. number of coins: 4
+
+Greedy Algorithm: 
+coin denominations: 1 2 4 8 
+change  quantities: 1 1 1 1 
+min. number of coins: 4
+
+Dynamic Programming Algorithm: 
+coin denominations: 1 2 4 8 
+change  quantities: 1 1 1 1 
+min. number of coins: 4
+
+
+Divide & Conquer Algorithm: 
+coin denominations: 1 3 7 12 
+change  quantities: 
+
+Greedy Algorithm: 
+coin denominations: 1 3 7 12 
+change  quantities: 2 1 0 2 
+min. number of coins: 5
+
+Dynamic Programming Algorithm: 
+coin denominations: 1 3 7 12 
+change  quantities: 0 1 2 1 
+min. number of coins: 4
+
+
+
+Divide & Conquer Algorithm: 
+coin denominations: 1 3 7 12 
+change  quantities: 
+
+Greedy Algorithm: 
+coin denominations: 1 3 7 12 
+change  quantities: 0 0 1 2 
+min. number of coins: 3
+
+Dynamic Programming Algorithm: 
+coin denominations: 1 3 7 12 
+change  quantities: 0 0 1 2 
+min. number of coins: 3
+
+
